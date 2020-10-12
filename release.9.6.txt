@@ -1,1 +1,2 @@
-This is for new release
+This is for new release 9_6. Hello world.
+
